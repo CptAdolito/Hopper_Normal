@@ -1,1 +1,1 @@
-![Reward Of Learners](Results\RewardMeanTrain.png)
+![Reward Of Learners](Results/RewardMeanTrain.png)
