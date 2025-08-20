@@ -4,7 +4,7 @@ Differences are the Expert they learn from and number of trajectories.<br>
 
 ## Experto 2800 (Seals) + PPO learners con AIRL
 
-![Demo](Results/SealsExperto/SealsGIF.gif)
+![Demo](Results/SealsExperto/Seals.gif)
 
 ## Experto 3500 (Finetuned) + PPO learners con AIRL
 
